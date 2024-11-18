@@ -10,6 +10,7 @@ This repository contains the Philippine Standard Geographic Code API based on Dj
 
 2. Create virtual environment
 > $ python -m venv <venv>
+
 > $ source <venv>/bin/activate
 
 3. Install modules from `requirements.txt`
