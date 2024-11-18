@@ -9,9 +9,9 @@ This repository contains the Philippine Standard Geographic Code API based on Dj
 > git clone https://github.com/ljannero/psgc-api.git
 
 2. Create virtual environment
-> $ python -m venv <venv>
+> python -m venv &lt;venv&gt;
 
-> $ source <venv>/bin/activate
+> source &lt;venv&gt;/bin/activate
 
 3. Install modules from `requirements.txt`
 > (venv) $ pip install -r requirements.txt
